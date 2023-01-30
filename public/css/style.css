@@ -1,0 +1,31 @@
+@font-face {
+    font-family: SarabanRegular;
+    src: url('../Sarabun/Sarabun-Regular.ttf')
+}
+
+body {
+    font-family: SarabanRegular;
+    background-color: #CCD5AE;
+}
+
+.bg-nav-color {
+    background-color: #D4A373;
+}
+
+.container {
+    /* background-color: #FEFAE0; */
+    background-color: #FFFFFF;
+    width: 30%;
+    height: 40vh;
+    border-radius: 10px;
+    position: relative;
+    top: 8vh;
+}
+
+.nav-link {
+    color: #000;
+}
+
+a {
+    color: #000;
+}
